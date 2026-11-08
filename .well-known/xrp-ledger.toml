@@ -1,0 +1,27 @@
+# Public metadata for Ark Angel Michael (MCH). This file does not set the issuer account Domain, and an icon URL does not by itself list the artwork in wallets.
+[[ACCOUNTS]]
+address = "rsX7fQMqFQqGb4HWbXK99ZgxUgSAzX73b6"
+network = "main"
+desc = "MCH issuer account"
+
+[[CURRENCIES]]
+code = "MCH"
+issuer = "rsX7fQMqFQqGb4HWbXK99ZgxUgSAzX73b6"
+network = "main"
+
+# XLS-26 metadata extension (Draft ecosystem standard).
+[[ISSUERS]]
+address = "rsX7fQMqFQqGb4HWbXK99ZgxUgSAzX73b6"
+name = "Ark Angel Michael"
+
+[[TOKENS]]
+issuer = "rsX7fQMqFQqGb4HWbXK99ZgxUgSAzX73b6"
+currency = "MCH"
+name = "Ark Angel Michael"
+icon = "https://dparrbusch.github.io/artwork/mch-icon.png"
+desc = "Believe or not,even Ark Angels have days like these. Forgotten? No !! Just distracted is all. The Most High always has your back!!"
+
+[[TOKENS.URLS]]
+url = "https://dparrbusch.github.io/"
+type = "website"
+title = "Ark Angel Michael"
